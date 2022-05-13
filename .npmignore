@@ -1,5 +1,4 @@
 *.md
 .github
-docs
 test
 lib
